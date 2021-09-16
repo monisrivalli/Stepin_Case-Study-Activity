@@ -1,6 +1,7 @@
 # Requirement
 
 ## Introduction
+
 The case study is based on the object of creating a seat heater as well as a process for heating a seat 
 with simple design means, which make it possible to minimize the time that the seat is perceived as being
 without any notable increase in overall power requirements.After the quick-heating field has shown 
@@ -8,10 +9,12 @@ without any notable increase in overall power requirements.After the quick-heati
 
  ## Features
 
+ Usage of heater will be ON only during when the person has sat and turned on, so consumption of
+ fuel will less.
 
+ Eco friendly
 
-
-
+ No damage to the car
 
 ## SWOT ANALYSIS
 
@@ -32,8 +35,6 @@ It uses more fuel when heater is turned on.
 ###Opportunities
 
  Heated seats can make cars much more comfortable in the winter & especially in countries where the weather is mostly too cool.
-
-
 
 ### Threats
 
