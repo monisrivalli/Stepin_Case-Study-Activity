@@ -26,21 +26,21 @@ without any notable increase in overall power requirements.After the quick-heati
 
 ### Strenghts
 
- User friendly.
+User friendly.
 
- Less cost.
+Less cost.
 
- provide benefits for aching backs and help in giving instant warmth.
+provide benefits for aching backs and help in giving instant warmth.
 
 ### Weakness
 
 It uses more fuel when heater is turned on.
 
- Excessive use of seat warmers arises to a skin condition “Toasted Skin Syndrome.” 
+Excessive use of seat warmers arises to a skin condition “Toasted Skin Syndrome.” 
 
 ###Opportunities
 
- Heated seats can make cars much more comfortable in the winter & especially in countries where the weather is mostly too cool.
+Heated seats can make cars much more comfortable in the winter & especially in countries where the weather is mostly too cool.
 
 ### Threats
 
