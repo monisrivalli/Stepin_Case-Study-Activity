@@ -16,6 +16,12 @@ without any notable increase in overall power requirements.After the quick-heati
 
  No damage to the car
 
+ High-temp rated element adhesive
+
+ Latching wire harness connectors
+
+ FMVSS 302 flammability compliant
+
 ## SWOT ANALYSIS
 
 ### Strenghts
