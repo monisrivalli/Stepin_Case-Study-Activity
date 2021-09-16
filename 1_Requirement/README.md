@@ -15,7 +15,7 @@ without any notable increase in overall power requirements.After the quick-heati
 
 ## SWOT ANALYSIS
 
-###Strenghts
+### Strenghts
 
 1) User friendly.
 
@@ -23,7 +23,7 @@ without any notable increase in overall power requirements.After the quick-heati
 
 3) provide benefits for aching backs and help in giving instant warmth.
 
-###Weakness
+### Weakness
 
 It uses more fuel when heater is turned on.
 
@@ -35,7 +35,7 @@ It uses more fuel when heater is turned on.
 
 
 
-###Threats
+### Threats
 
 Low Coolant Level
 
@@ -45,9 +45,9 @@ Heater Control Valve
 
 Malfunctioning Controls
 
-##4W's 1H
+## 4W's 1H
 
-##4w1H
+## 4w1H
 
 What : Car seat heating
 
