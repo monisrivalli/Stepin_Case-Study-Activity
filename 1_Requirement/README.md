@@ -26,11 +26,11 @@ without any notable increase in overall power requirements.After the quick-heati
 
 ### Strenghts
 
-1) User friendly.
+ User friendly.
 
-2) Less cost.
+ Less cost.
 
-3) provide benefits for aching backs and help in giving instant warmth.
+ provide benefits for aching backs and help in giving instant warmth.
 
 ### Weakness
 
